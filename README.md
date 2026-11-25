@@ -25,11 +25,13 @@ _________
 Example of a 2x2 grid with the field divided into 4:
 _________
 Initial condition map:
+_________
 |_0_|_0_|   
 |_0_|_0_|  
 
 _________
 Final condition map:
+_________
 |_1_|_2_|   
 |_3_|_1_|
 _________
